@@ -1,0 +1,13 @@
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\bin\Debug\netcoreapp3.1\getters and setters.exe
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\bin\Debug\netcoreapp3.1\getters and setters.deps.json
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\bin\Debug\netcoreapp3.1\getters and setters.runtimeconfig.json
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\bin\Debug\netcoreapp3.1\getters and setters.runtimeconfig.dev.json
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\bin\Debug\netcoreapp3.1\getters and setters.dll
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\bin\Debug\netcoreapp3.1\getters and setters.pdb
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\obj\Debug\netcoreapp3.1\getters and setters.csprojAssemblyReference.cache
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\obj\Debug\netcoreapp3.1\getters and setters.AssemblyInfoInputs.cache
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\obj\Debug\netcoreapp3.1\getters and setters.AssemblyInfo.cs
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\obj\Debug\netcoreapp3.1\getters and setters.csproj.CoreCompileInputs.cache
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\obj\Debug\netcoreapp3.1\getters and setters.dll
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\obj\Debug\netcoreapp3.1\getters and setters.pdb
+C:\Users\gaelg\source\repos\getters and setters\getters and setters\obj\Debug\netcoreapp3.1\getters and setters.genruntimeconfig.cache

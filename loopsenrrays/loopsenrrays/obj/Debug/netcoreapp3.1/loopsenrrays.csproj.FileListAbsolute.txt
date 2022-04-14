@@ -1,0 +1,13 @@
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\bin\Debug\netcoreapp3.1\loopsenrrays.exe
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\bin\Debug\netcoreapp3.1\loopsenrrays.deps.json
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\bin\Debug\netcoreapp3.1\loopsenrrays.runtimeconfig.json
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\bin\Debug\netcoreapp3.1\loopsenrrays.runtimeconfig.dev.json
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\bin\Debug\netcoreapp3.1\loopsenrrays.dll
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\bin\Debug\netcoreapp3.1\loopsenrrays.pdb
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\obj\Debug\netcoreapp3.1\loopsenrrays.csprojAssemblyReference.cache
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\obj\Debug\netcoreapp3.1\loopsenrrays.AssemblyInfoInputs.cache
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\obj\Debug\netcoreapp3.1\loopsenrrays.AssemblyInfo.cs
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\obj\Debug\netcoreapp3.1\loopsenrrays.csproj.CoreCompileInputs.cache
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\obj\Debug\netcoreapp3.1\loopsenrrays.dll
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\obj\Debug\netcoreapp3.1\loopsenrrays.pdb
+C:\Users\gaelg\source\repos\loopsenrrays\loopsenrrays\obj\Debug\netcoreapp3.1\loopsenrrays.genruntimeconfig.cache

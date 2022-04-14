@@ -1,0 +1,13 @@
+C:\Users\gaelg\source\repos\methodscope\methodscope\bin\Debug\netcoreapp3.1\methodscope.exe
+C:\Users\gaelg\source\repos\methodscope\methodscope\bin\Debug\netcoreapp3.1\methodscope.deps.json
+C:\Users\gaelg\source\repos\methodscope\methodscope\bin\Debug\netcoreapp3.1\methodscope.runtimeconfig.json
+C:\Users\gaelg\source\repos\methodscope\methodscope\bin\Debug\netcoreapp3.1\methodscope.runtimeconfig.dev.json
+C:\Users\gaelg\source\repos\methodscope\methodscope\bin\Debug\netcoreapp3.1\methodscope.dll
+C:\Users\gaelg\source\repos\methodscope\methodscope\bin\Debug\netcoreapp3.1\methodscope.pdb
+C:\Users\gaelg\source\repos\methodscope\methodscope\obj\Debug\netcoreapp3.1\methodscope.csprojAssemblyReference.cache
+C:\Users\gaelg\source\repos\methodscope\methodscope\obj\Debug\netcoreapp3.1\methodscope.AssemblyInfoInputs.cache
+C:\Users\gaelg\source\repos\methodscope\methodscope\obj\Debug\netcoreapp3.1\methodscope.AssemblyInfo.cs
+C:\Users\gaelg\source\repos\methodscope\methodscope\obj\Debug\netcoreapp3.1\methodscope.csproj.CoreCompileInputs.cache
+C:\Users\gaelg\source\repos\methodscope\methodscope\obj\Debug\netcoreapp3.1\methodscope.dll
+C:\Users\gaelg\source\repos\methodscope\methodscope\obj\Debug\netcoreapp3.1\methodscope.pdb
+C:\Users\gaelg\source\repos\methodscope\methodscope\obj\Debug\netcoreapp3.1\methodscope.genruntimeconfig.cache
